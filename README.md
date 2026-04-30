@@ -1,10 +1,10 @@
-# SignalAlpha - AI Swing Trade Predictions
+# Domino-Fall - AI Swing Trade Predictions
 
 Free daily stock picks powered by cause-and-effect analysis. Not technical indicators. Not AI scores. Real analysis of news, geopolitics, earnings, and macro events.
 
 ## What Makes This Different
 
-Most stock prediction sites use technical analysis and pattern recognition. SignalAlpha uses **cause-and-effect reasoning** -- understanding WHY prices move:
+Most stock prediction sites use technical analysis and pattern recognition. Domino-Fall uses **cause-and-effect reasoning** -- understanding WHY prices move:
 
 - Geopolitical events and downstream sector effects
 - Earnings catalysts with asymmetric risk/reward
@@ -26,4 +26,4 @@ Every prediction is publicly tracked with full transparency. Win rate, average r
 
 No paywall. No premium tier. Ad-supported when we have the traffic.
 
-**[View Today's Picks](https://vogdiesel-create.github.io/signal-alpha/)**
+**[View Today's Picks](https://domino-fall.com/)**
