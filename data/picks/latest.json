@@ -1,0 +1,47 @@
+{
+    "date": "2026-04-30",
+    "generated_at": "2026-04-30T16:50:00Z",
+    "market_context": "Iran-US Strait of Hormuz crisis (oil at $126 intraday). Strong Q1 earnings from Alphabet, Eli Lilly, Caterpillar. Meta sold off on AI capex. Fed divided 8-4 on rates. GDP at 2.0% below estimates.",
+    "picks": [
+        {
+            "ticker": "CVX",
+            "company": "Chevron Corporation",
+            "direction": "long",
+            "entry": "191.50",
+            "target": "210.00",
+            "stop": "178.00",
+            "timeframe": "2-4 weeks",
+            "conviction": 8,
+            "thesis": "Strait of Hormuz at 4% of normal flow (Goldman estimate). 20% of global oil/gas supply effectively shut. Trump rejected Iran's proposal to reopen. This isn't a one-day spike -- it's a sustained supply disruption with no resolution in sight. CVX trades at 3.8% dividend yield with massive free cash flow at $120+ oil. Previous cause-and-effect: Braxton bought CVX at $155 on Venezuela sanctions (Jan 2026), rode to $188+ for 18% gain. Same thesis, bigger catalyst. Risk: sudden ceasefire or deal announcement."
+        },
+        {
+            "ticker": "GOOGL",
+            "company": "Alphabet Inc.",
+            "direction": "long",
+            "entry": "370.00",
+            "target": "405.00",
+            "stop": "345.00",
+            "timeframe": "2-4 weeks",
+            "conviction": 7,
+            "thesis": "Q1 revenue $109.9B (+22% YoY), crushing $107.1B estimate. Net income +81% to $62.6B. Google Cloud crossed $20B for first time (+63% growth). Backlog nearly doubled to $460B. The market is worried about $180-190B AI capex, but Google has the profit engine to fund it -- $62.6B net income in ONE quarter. The gap up to $370 creates new support at the prior resistance level. Cloud growth acceleration suggests AI monetization is working, unlike Meta where spending has no clear ROI path. Risk: broader tech selloff on AI spending fears."
+        },
+        {
+            "ticker": "LLY",
+            "company": "Eli Lilly and Company",
+            "direction": "long",
+            "entry": "875.00",
+            "target": "950.00",
+            "stop": "820.00",
+            "timeframe": "3-6 weeks",
+            "conviction": 8,
+            "thesis": "GLP-1 revenue explosion: Mounjaro +125% to $8.66B, Zepbound +80% to $4.16B. EPS $8.55 vs $6.85 expected. Raised 2026 revenue outlook. This is not a one-quarter beat -- it's a structural shift in healthcare spending. Global obesity drug market projected $150B+ by 2030. Lilly has the manufacturing capacity others lack. The 9% post-earnings pop has room to continue as analysts raise price targets. Risk: GLP-1 safety concerns or competitive pressure from Novo Nordisk."
+        }
+    ],
+    "stats": {
+        "totalPicks": "3",
+        "winRate": "N/A",
+        "avgReturn": "N/A",
+        "activePicks": "3"
+    },
+    "history": []
+}
